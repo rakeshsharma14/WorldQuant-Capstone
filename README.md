@@ -8,3 +8,8 @@ The repo will contain the
 * Additional libraries used for development of the solution
 * Any user can get started by the installing the python packages in the requirements.txt
   
+
+
+
+This paper was created as part of a WorldQuant University degree program towards an MSc in Financial Engineering.
+This paper is reproduced with the consent and permission of WorldQuant University. All rights reserved.
